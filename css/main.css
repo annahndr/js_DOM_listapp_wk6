@@ -1,0 +1,31 @@
+
+#french-form {
+  font-family: 'Lora', serif;
+}
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1536929408828-c5090b00ffed?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0aca915362760280220b29c77b338352&auto=format&fit=crop&w=947&q=80");
+  background-size: cover;
+}
+
+.form {
+  background-color: white;
+  opacity: 0.8;
+}
+
+.list {
+  background-color: white;
+  opacity: 0.8;
+}
+
+h2 {
+  font-family: 'Lora', serif;
+}
+
+h3 {
+  font-family: 'Lora', serif;
+}
+
+p {
+  font-family: 'Lora', serif;
+}
